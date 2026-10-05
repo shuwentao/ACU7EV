@@ -1,0 +1,7 @@
+<!-- Qt 资源文件：把 QML 界面与字体打包进可执行文件，通过 qrc:/ 前缀访问 -->
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>simsun.ttc</file>
+    </qresource>
+</RCC>

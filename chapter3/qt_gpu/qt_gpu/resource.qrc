@@ -1,0 +1,6 @@
+<!-- Qt 资源文件：把字体打包进可执行文件，通过 :/ 前缀访问 -->
+<RCC>
+    <qresource prefix="/">
+        <file>simsun.ttc</file>
+    </qresource>
+</RCC>
